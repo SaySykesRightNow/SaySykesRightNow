@@ -1,3 +1,8 @@
+Greetings, I'm Evan.
+
+Computer Analyst!
+
+
 - 👋 Hi, I’m Evan Sykes
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
